@@ -1,1 +1,4 @@
-# Indian_MutualFunds_DataAnalysis
+# Indian Mutual Fund Data Analysis
+# Overview:-
+This project aims to analyze and visualize Indian mutual fund data to provide insights into fund performance, risk, and returns. The analysis is focused on helping retail investors make informed decisions by understanding key metrics and trends in the mutual fund market.
+In this project I have done analysis over (2555 X 11) ~25000 data points.
